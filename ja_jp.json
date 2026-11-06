@@ -1,0 +1,19 @@
+{
+  "item.nuts_delight.roasted_walnut": "焼きクルミ",
+  "block.nuts_delight.roasted_walnut_crate": "焼きクルミ入り木箱",
+  "item_group.nuts_delight.nuts_delight": "Nuts Delight",
+  "item_group.nuts_delight.nutty_compats": "Nuts Delight(補完)",
+  "item.nuts_delight.peanut": "ピーナッツ",
+  "block.nuts_delight.nutty_walnut_leaves": "クルミの葉",
+  "block.nuts_delight.peanut_sprout_2": "発芽したピーナッツ",
+  "item.nuts_delight.roasted_peanut": "焼きピーナッツ",
+  "item.nuts_delight.shelled_walnut": "殻を剥いたクルミ",
+  "block.nuts_delight.peanut_crop": "ピーナッツ",
+  "block.nuts_delight.peanut_crate": "ピーナッツ入り木箱",
+  "item.nuts_delight.walnut": "クルミ",
+  "block.nuts_delight.overweight_walnut": "巨大化したクルミ",
+  "block.nuts_delight.overweight_peanut": "巨大化したピーナッツ",
+  "block.nuts_delight.peanut_sprout": "発芽したピーナッツ",
+  "block.nuts_delight.shelled_walnut_crate": "クルミ入り木箱",
+  "block.nuts_delight.roasted_peanut_crate": "ピーナッツ入り木箱"
+}
