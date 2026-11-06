@@ -1,0 +1,57 @@
+{
+  "item.herbaldelight.smart_specs": "スマートメガネ",
+
+  "item.herbaldelight.green_tea_cup": "緑茶",
+  "item.herbaldelight.green_tea_leaf": "緑茶の葉",
+  "item.herbaldelight.dried_green_tea_leaf": "乾燥させた緑茶の葉",
+  "item.herbaldelight.green_tea_seeds": "緑茶の種",
+
+  "item.herbaldelight.black_tea_cup": "紅茶",
+  "item.herbaldelight.black_tea_leaf": "紅茶の葉",
+  "item.herbaldelight.dried_black_tea_leaf": "乾燥させた紅茶の葉",
+  "item.herbaldelight.black_tea_seeds": "紅茶の種",
+
+  "item.herbaldelight.hibiscus_tea_cup": "ハイビスカスティー",
+  "item.herbaldelight.hibiscus_tea_leaf": "ハイビスカスの花",
+  "item.herbaldelight.dried_hibiscus_tea_leaf": "乾燥させたハイビスカスの花",
+  "item.herbaldelight.hibiscus_tea_seeds": "ハイビスカスの種",
+
+  "block.herbaldelight.green_tea_crop": "緑茶の苗",
+  "block.herbaldelight.black_tea_crop": "紅茶の苗",
+  "block.herbaldelight.hibiscus_tea_crop": "ハイビスカスの苗",
+
+  "block.herbaldelight.green_tea_block": "緑茶の葉ブロック",
+  "block.herbaldelight.black_tea_block": "紅茶の葉ブロック",
+  "block.herbaldelight.hibiscus_tea_block": "ハイビスカスの花ブロック",
+
+  "block.herbaldelight.dried_green_tea_block": "乾燥させた緑茶の葉ブロック",
+  "block.herbaldelight.dried_black_tea_block": "乾燥させた紅茶の葉ブロック",
+  "block.herbaldelight.dried_hibiscus_tea_block": "乾燥ハイビスカスの花ブロック",
+
+  "block.herbaldelight.baked_green_tea_block": "蒸した緑茶の葉ブロック",
+  "block.herbaldelight.baked_green_tea_slab": "蒸した緑茶の葉のハーフブロック",
+  "block.herbaldelight.baked_green_tea_stairs": "蒸した緑茶の葉の階段",
+
+  "block.herbaldelight.baked_black_tea_block": "発酵させた紅茶の葉ブロック",
+  "block.herbaldelight.baked_black_tea_slab": "発酵させた紅茶の葉のハーフブロック",
+  "block.herbaldelight.baked_black_tea_stairs": "発酵させた紅茶の葉の階段",
+
+  "block.herbaldelight.baked_hibiscus_tea_block": "乾燥させたハイビスカスの花ブロック",
+  "block.herbaldelight.baked_hibiscus_tea_slab": "乾燥させたハイビスカスの花のハーフブロック",
+  "block.herbaldelight.baked_hibiscus_tea_stairs": "乾燥させたハイビスカスの花の階段",
+
+  "block.herbaldelight.baked_green_tea_bricks": "蒸した緑茶の葉のレンガ",
+  "block.herbaldelight.baked_green_tea_brick_slab": "蒸した緑茶の葉のハーフレンガ",
+  "block.herbaldelight.baked_green_tea_brick_stairs": "蒸した緑茶の葉の階段レンガ",
+
+  "block.herbaldelight.baked_black_tea_bricks": "発酵させた紅茶の葉のレンガ",
+  "block.herbaldelight.baked_black_tea_brick_slab": "発酵させた紅茶の葉のハーフレンガ",
+  "block.herbaldelight.baked_black_tea_brick_stairs": "発酵させた紅茶の葉の階段レンガ",
+
+  "block.herbaldelight.baked_hibiscus_tea_bricks": "乾燥させたハイビスカスの花のレンガ",
+  "block.herbaldelight.baked_hibiscus_tea_brick_slab": "乾燥させたハイビスカスの花のハーフレンガ",
+  "block.herbaldelight.baked_hibiscus_tea_brick_stairs": "乾燥させたハイビスカスの花の階段レンガ",
+
+
+  "itemgroup.tea": "Herbal Delight"
+}
