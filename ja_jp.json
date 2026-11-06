@@ -1,0 +1,33 @@
+{
+  "block.legumedelight.wild_beans": "野生の豆",
+  "block.legumedelight.wild_peanuts": "野生のピーナッツ",
+  "block.legumedelight.bean_sack": "豆入りの袋",
+  "block.legumedelight.peanut_sack": "ピーナッツ入りの袋",
+
+  "item.legumedelight.beans": "豆",
+  "item.legumedelight.peanuts": "ピーナッツ",
+
+  "item.legumedelight.bean_paste": "餡子",
+  "item.legumedelight.bean_patty": "豆のパティ",
+  "item.legumedelight.peanut_butter": "ピーナッツバター",
+  "item.legumedelight.refried_beans": "リフライドビーンズ",
+  "item.legumedelight.roasted_peanuts": "ローストピーナッツ",
+  "item.legumedelight.candied_peanuts": "ピーナッツの砂糖がけ",
+  "item.legumedelight.mooncake": "月餅",
+  "item.legumedelight.peanut_bar": "ピーナッツバー",
+  "item.legumedelight.peanut_butter_cookie": "ピーナッツバタークッキー",
+  "item.legumedelight.peanut_butter_cup": "ピーナッツバターカップ",
+  "item.legumedelight.rice_cake": "大福",
+  "item.legumedelight.trail_mix": "トレイルミックス",
+  "item.legumedelight.bean_burger": "豆バーガー",
+  "item.legumedelight.bean_burrito": "豆のブリトー",
+  "item.legumedelight.beans_on_toast": "豆をのせたトースト",
+  "item.legumedelight.nachos": "ナチョス",
+  "item.legumedelight.peanut_butter_and_jam_sandwich": "ピーナッツバターとジャムのサンドウィッチ",
+  "item.legumedelight.potato_taco": "ポテトタコス",
+  "item.legumedelight.baked_beans": "豆のトマト煮込み",
+  "item.legumedelight.beans_and_rice": "豆ごはん",
+  "item.legumedelight.chili": "チリコンカン",
+  "item.legumedelight.pad_thai": "パッタイ",
+  "item.legumedelight.pasta_with_tomato_sauce": "トマトソースパスタ"
+}
