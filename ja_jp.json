@@ -1,0 +1,70 @@
+{
+  "creativetab.fungidelight_tab": "Fungi Delight",
+
+  "item.fungidelight.cleaned_cap": "下処理されたササクレヒトヨタケ",
+  "item.fungidelight.cooked_cleaned_cap": "焼きササクレヒトヨタケ",
+  "item.fungidelight.truffle": "トリュフ",
+  "item.fungidelight.truffle_slice": "トリュフの薄切り",
+
+  "item.fungidelight.inky_caps_salad": "ササクレヒトヨタケのサラダ",
+  "item.fungidelight.creamy_morel_soup": "アミガサタケのクリームスープ",
+  "item.fungidelight.truffle_ice_cream": "トリュフアイスクリーム",
+
+  "item.fungidelight.inky_cap_scrambled_eggs": "ササクレヒトヨタケのスクランブルエッグ",
+  "item.fungidelight.truffle_pasta": "トリュフスパゲッティ",
+  "item.fungidelight.stuffed_morels": "アミガサタケの肉詰め",
+  "item.fungidelight.steak_with_mushrooms": "キノコクリームのステーキ",
+  "item.fungidelight.mutton_chops_with_truffle": "トリュフ香るラムチョップ",
+  "item.fungidelight.rabbit_with_morels": "兎肉とアミガサタケのソテー",
+  "item.fungidelight.pork_marsala_with_mushrooms": "豚肉とキノコのマルサラワイン煮込み",
+
+  "item.minecraft.potion.effect.burrowing": "地均し",
+  "item.minecraft.splash_potion.effect.burrowing": "地均しのスプラッシュポーション",
+  "item.minecraft.lingering_potion.effect.burrowing": "地均しの残留ポーション",
+  "item.minecraft.tipped_arrow.effect.burrowing": "地均しの矢",
+  "item.minecraft.potion.effect.long_burrowing": "地均し",
+  "item.minecraft.splash_potion.effect.long_burrowing": "地均しのスプラッシュポーション",
+  "item.minecraft.lingering_potion.effect.long_burrowing": "地均しの残留ポーション",
+  "item.minecraft.tipped_arrow.effect.long_burrowing": "地均しの矢",
+  "item.minecraft.potion.effect.strong_burrowing": "地均し",
+  "item.minecraft.splash_potion.effect.strong_burrowing": "地均しのスプラッシュポーション",
+  "item.minecraft.lingering_potion.effect.strong_burrowing": "地均しの残留ポーション",
+  "item.minecraft.tipped_arrow.effect.strong_burrowing": "地均しの矢",
+
+  "item.fungidelight.inky_cap_cow_spawn_egg": "ササクレヒトヨタケに寄生された牛のスポーンエッグ",
+  "item.fungidelight.morel_cow_spawn_egg": "アミガサタケに寄生された牛のスポーンエッグ",
+
+  "block.fungidelight.inky_cap_mushroom": "ササクレヒトヨタケ",
+  "block.fungidelight.morel_mushroom": "アミガサタケ",
+
+  "block.fungidelight.inky_cap_mushroom_block": "ササクレヒトヨタケの傘",
+  "block.fungidelight.inky_cap_mushroom_stem": "ササクレヒトヨタケの柄",
+  "block.fungidelight.inky_cap_mushroom_edge": "ササクレヒトヨタケの傘の縁",
+  "block.fungidelight.inky_goo_veil": "黒い粘液膜",
+  "block.fungidelight.morel_mushroom_block": "アミガサタケの傘",
+  "block.fungidelight.morel_mushroom_stem": "アミガサタケの柄",
+
+  "block.fungidelight.inky_cap_mushroom_colony": "群生したササクレヒトヨタケ",
+  "block.fungidelight.morel_mushroom_colony": "群生したアミガサタケ",
+
+  "block.fungidelight.brown_mushroom_crate": "茶色のキノコ入り木箱",
+  "block.fungidelight.inky_cap_mushroom_crate": "ササクレヒトヨタケ入り木箱",
+  "block.fungidelight.morel_mushroom_crate": "アミガサタケ入り木箱",
+  "block.fungidelight.red_mushroom_crate": "赤色のキノコ入り木箱",
+  "block.fungidelight.truffle_crate": "トリュフ入り木箱",
+
+  "block.fungidelight.truffle_dirt": "トリュフが埋まった土",
+
+  "effect.fungidelight.burrowing": "地均し",
+  "tooltip.fungidelight.burrowing_desc": "土壌を掘る速度 +%s",
+  "effect.fungidelight.weak_stomach": "胃弱",
+  "tooltip.fungidelight.weak_stomach_desc": "胃弱を引き起こす",
+
+  "subtitles.fungidelight.pig_happy": "ブタが嬉しそうに鳴いた",
+  "subtitles.fungidelight.pig_dig": "ブタが地面を掘った",
+  "subtitles.fungidelight.pig_drop": "トリュフが出てきた",
+
+  "subtitles.fungidelight.dog_sniff_truffle": "オオカミがトリュフの匂いを嗅いだ",
+  "subtitles.fungidelight.dog_found_truffle": "オオカミがトリュフの匂いを嗅ぎつけた",
+  "subtitles.fungidelight.dog_alert_truffle": "オオカミがトリュフを見つけ出した"
+}
