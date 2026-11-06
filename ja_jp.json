@@ -1,0 +1,15 @@
+{
+  "item.vietnamsdelight.rice_flour": "米粉",
+  "item.vietnamsdelight.banh_mi": "バインミー",
+  "item.vietnamsdelight.rice_mixed_wheat_dough": "米粉を混ぜた小麦粉の生地",
+  "item.vietnamsdelight.rice_batter": "米粉の生地",
+  "item.vietnamsdelight.rice_noodle_sheet": "ライスヌードル生地",
+  "item.vietnamsdelight.flat_rice_noodle": "ライスヌードル",
+  "item.vietnamsdelight.pho": "フォー",
+  "item.vietnamsdelight.beef_pho": "牛肉のフォー",
+  "item.vietnamsdelight.corn_starch": "コーンスターチ",
+  "item.vietnamsdelight.chicken_pho": "鶏肉のフォー",
+  "item.vietnamsdelight.non_la": "ノンラー(開発中)",
+
+  "itemgroup.VD_GROUP": "Vietnam's Delight"
+}
