@@ -1,0 +1,29 @@
+{
+  "item.spanishdelight.paprika": "パプリカ",
+  "item.spanishdelight.sliced_potato": "スライスしたジャガイモ",
+  "item.spanishdelight.sliced_onion": "切ったタマネギ",
+  "item.spanishdelight.garlic": "ニンニク",
+  "item.spanishdelight.green_bean": "サヤインゲン",
+  "item.spanishdelight.red_pepper": "赤パプリカ",
+  "item.spanishdelight.green_pepper": "ピーマン",
+  "item.spanishdelight.squid_ring": "イカリング",
+  "item.spanishdelight.spanish_tortilla": "スペイン風オムレツ",
+  "item.spanishdelight.paella": "パエリア",
+  "item.spanishdelight.pil_pil_cod": "鱈のピルピル",
+  "item.spanishdelight.croquettes": "クロケット",
+  "item.spanishdelight.brava_potatoes": "パタタス・ブラバス",
+  "item.spanishdelight.churro": "チュロス",
+  "item.spanishdelight.gazpacho": "ガスパチョ",
+  "item.spanishdelight.pantumaca": "パン・コン・トマテ",
+  "item.spanishdelight.fried_squid_ring": "イカリングフライ",
+
+  "block.spanishdelight.wild_garlic": "野生のニンニク",
+  "block.spanishdelight.wild_red_pepper": "野生の赤パプリカ",
+  "block.spanishdelight.wild_green_pepper": "野生のピーマン",
+
+  "tooltip.spanishdelight.squid_ring": "ナイフでイカを倒すとドロップ",
+  "tooltip.spanishdelight.green_bean": "農民の村人と取引しよう！",
+  "tooltip.spanishdelight.press_shift": "SHIFTキーを押すと詳細が表示されます。",
+
+  "creativetab.sdelight_tab": "Spanish Delight"
+}
