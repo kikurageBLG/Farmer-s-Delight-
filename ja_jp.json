@@ -1,0 +1,13 @@
+{
+  "item.lemoned.lemon": "レモン",
+  "item.lemoned.lemon_slice": "レモンのくし切り",
+  "item.lemoned.lemon_gun": "レモン銃",
+  "item.lemoned.lemon_seeds": "レモンの種",
+  "item.lemoned.lemonade": "レモネード",
+
+  "block.lemoned.lemon_crate": "レモン入り木箱",
+  "block.lemoned.lemon_crop": "レモン",
+
+  "itemGroup.yellowfultab": "Lemonful Tab",
+  "creativetab.yellowfull_tab": "Yellowfull Tab"
+}
